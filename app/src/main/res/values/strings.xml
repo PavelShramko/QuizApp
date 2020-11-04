@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="level1">Уровень 1</string>
+    <string name="levelone">Выбери цифру, которая больше.\nВопросы могут повторяться, пока ты не наберешь 20 очков</string>
+    <string name="leveltwo">Выбери римскую цифру, которая больше.\nВопросы могут повторяться, пока ты не наберешь 20 очков</string>
+    <string name="textcontinue">Продолжить</string>
+    <string name="leveloneEnd">"Поздравляем, уровень пройден!\n
+        А знаете ли Вы, что цифра 7 считается самой счастливой цифрой в мире. Существует 7 дней в неделе, 7 континентов, 7 цветов радуги, 7 музыкальных нот.\n
+        Также число семь является самым любимым числом в мире"</string>
+
+</resources>
